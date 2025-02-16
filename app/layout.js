@@ -38,7 +38,7 @@ export const metadata = {
   openGraph: {
     title: "Reva Labs | Digital Design & Development Agency",
     description: "Transform your digital presence with Reva Labs. Expert web development, UI/UX design, app development, and branding solutions.",
-    url: 'https://studionexa.in',
+    url: 'https://revalabs.in',
     siteName: 'Reva Labs',
     locale: 'en_US',
     type: 'website',
