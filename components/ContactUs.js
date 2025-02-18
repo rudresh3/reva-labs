@@ -14,34 +14,34 @@ const ContactUs = () => {
         <div className="flex justify-center mt-[13px] gap-[7px] lg:mt-[33px] lg:gap-[25px]">
             {[
                 { 
-                    link: "#",
+                    link: "https://wa.me/8553393366",
                     imgLight: "/Vector.svg",
                     imgDark: "/Vector0.svg",
-                    alt: "GitHub"
+                    alt: "whatsapp"
                 },
                 {
-                    link: "#",
+                    link: "https://www.linkedin.com/company/revalabs/",
                     imgLight: "/Vector-1.svg",
                     imgDark: "/Vector-11.svg",
                     alt: "LinkedIn"
                 },
                 {
-                    link: "#",
+                    link: "https://www.instagram.com/revalabs.in",
                     imgLight: "/Vector-2.svg",
                     imgDark: "/Vector-22.svg",
-                    alt: "Twitter"
+                    alt: "Instagram"
                 },
                 {
-                    link: "#",
+                    link: "https://www.behance.net/revalabs",
                     imgLight: "/Vector-3.svg",
                     imgDark: "/Vector-33.svg",
-                    alt: "Email"
+                    alt: "Behance"
                 },
                 {
-                    link: "#",
+                    link: "https://dribbble.com/revalabs",
                     imgLight: "/Vector-4.svg",
                     imgDark: "/Vector-44.svg",
-                    alt: "Instagram"
+                    alt: "Dribbble"
                 }
             ].map((social, index) => (
                 <a key={index} 
