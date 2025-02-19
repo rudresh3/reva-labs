@@ -7,6 +7,7 @@
 // import ContactUs from "@/components/ContactUs";
 // import ReachOut from "@/components/ReachOut";
 // import Footer from "@/components/Footer";
+import { Metadata } from 'next';
 
 // export default function Home() {
 //   const { theme } = useTheme();
@@ -71,6 +72,10 @@
 //   );
 // }
 import React from 'react'
+
+export const metadata = {
+  title: 'Reva Labs | Web Development, UI/UX Design, App Development & Branding',
+};
 
 function Home() {
   return (
